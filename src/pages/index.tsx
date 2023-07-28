@@ -66,6 +66,7 @@ export default function Home() {
                   key="share"
                   className='m-3'
                   url={shareUrl}
+                  hashtags={["MyBirthdayFloridaMan"]}
                   title={"My birthday Florida man is:\n" + title}
                 >
                   <TwitterIcon size={32} round />
